@@ -1,6 +1,6 @@
 # LP1
 
-<br> Exercicios realizados durante a cadeira de LLP1, ministrada pelo professor Derzu Omaia, com foco no paradigma de orientação a objetos, na Universidade Federal da Paraíba <a href = http://ci.ufpb.br/>(UFPB)</a>.</br>
+<br> Exercises realized in my first year on college, at Universidade Federal da Paraíba <a href = http://ci.ufpb.br/>(UFPB)</a>.</br>
 
 <br>
     <div align="center">
